@@ -1,0 +1,1 @@
+# rage-click-extension
